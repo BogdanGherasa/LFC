@@ -1,0 +1,14 @@
+C:\Users\Bogdan\Desktop\ProiectLFC\bin\Debug\net8.0\ProiectLFC.exe
+C:\Users\Bogdan\Desktop\ProiectLFC\bin\Debug\net8.0\ProiectLFC.deps.json
+C:\Users\Bogdan\Desktop\ProiectLFC\bin\Debug\net8.0\ProiectLFC.runtimeconfig.json
+C:\Users\Bogdan\Desktop\ProiectLFC\bin\Debug\net8.0\ProiectLFC.dll
+C:\Users\Bogdan\Desktop\ProiectLFC\bin\Debug\net8.0\ProiectLFC.pdb
+C:\Users\Bogdan\Desktop\ProiectLFC\obj\Debug\net8.0\ProiectLFC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan\Desktop\ProiectLFC\obj\Debug\net8.0\ProiectLFC.AssemblyInfoInputs.cache
+C:\Users\Bogdan\Desktop\ProiectLFC\obj\Debug\net8.0\ProiectLFC.AssemblyInfo.cs
+C:\Users\Bogdan\Desktop\ProiectLFC\obj\Debug\net8.0\ProiectLFC.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\ProiectLFC\obj\Debug\net8.0\ProiectLFC.dll
+C:\Users\Bogdan\Desktop\ProiectLFC\obj\Debug\net8.0\refint\ProiectLFC.dll
+C:\Users\Bogdan\Desktop\ProiectLFC\obj\Debug\net8.0\ProiectLFC.pdb
+C:\Users\Bogdan\Desktop\ProiectLFC\obj\Debug\net8.0\ProiectLFC.genruntimeconfig.cache
+C:\Users\Bogdan\Desktop\ProiectLFC\obj\Debug\net8.0\ref\ProiectLFC.dll
