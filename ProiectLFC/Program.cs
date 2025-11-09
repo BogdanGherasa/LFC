@@ -47,18 +47,18 @@ namespace MyApp
         {
             Console.WriteLine("===== Tabel Tranzitii =====");
 
-          
+
             Console.Write("Stare\t");
             foreach (var symbol in Alfabet)
             {
                 Console.Write(symbol + "\t");
             }
-            Console.WriteLine(); 
+            Console.WriteLine();
 
-          
+
             foreach (var state in Stari)
             {
-                Console.Write(state + "\t"); 
+                Console.Write(state + "\t");
 
                 foreach (var symbol in Alfabet)
                 {
@@ -76,5 +76,43 @@ namespace MyApp
             }
         }
 
+
+
+        public bool checkWord(string cuvant)
+        {
+            string stareCurenta = StareInitiala;
+
+            foreach (char simbol in cuvant)
+            {
+                if (!Alfabet.Contains(simbol))
+                {
+                    Console.WriteLine($"Simbol invalid: '{simbol}' (nu face parte din alfabet)");
+                    return false;
+                }
+
+                var cheie = (stareCurenta, simbol);
+                if (Tranzitii.ContainsKey(cheie))
+                {
+                    stareCurenta = Tranzitii[cheie];
+                }
+                else
+                {
+                    Console.WriteLine($"Nu exista tranzitie din '{stareCurenta}' cu simbolul '{simbol}'.");
+                    return false;
+                }
+            }
+
+            if (StariFinale.Contains(stareCurenta))
+            {
+                Console.WriteLine($"Cuvantul '{cuvant}' este ACCEPTAT (stare finala: {stareCurenta})");
+                return true;
+            }
+            else
+            {
+                Console.WriteLine($"Cuvantul '{cuvant}' este RESPINS (stare finala: {stareCurenta})");
+                return false;
+            }
+
+        }
     }
 }

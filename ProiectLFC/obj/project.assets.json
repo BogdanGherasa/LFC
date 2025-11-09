@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Bogdan\\.nuget\\packages\\": {},
+    "C:\\Users\\Rog Strix\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bogdan\\Desktop\\ProiectLFC\\ProiectLFC.csproj",
+      "projectUniqueName": "C:\\Users\\Rog Strix\\OneDrive\\Desktop\\Limbaje Formale si Compilatoare\\LFC\\ProiectLFC\\ProiectLFC.csproj",
       "projectName": "ProiectLFC",
-      "projectPath": "C:\\Users\\Bogdan\\Desktop\\ProiectLFC\\ProiectLFC.csproj",
-      "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bogdan\\Desktop\\ProiectLFC\\obj\\",
+      "projectPath": "C:\\Users\\Rog Strix\\OneDrive\\Desktop\\Limbaje Formale si Compilatoare\\LFC\\ProiectLFC\\ProiectLFC.csproj",
+      "packagesPath": "C:\\Users\\Rog Strix\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rog Strix\\OneDrive\\Desktop\\Limbaje Formale si Compilatoare\\LFC\\ProiectLFC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rog Strix\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -51,7 +50,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
