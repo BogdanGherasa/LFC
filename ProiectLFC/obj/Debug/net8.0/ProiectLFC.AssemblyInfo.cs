@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProiectLFC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5c21addad465269ceda1b5063bcb78879d1c748")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+568e069ff744065e3bba02570f66cf10744030f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProiectLFC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProiectLFC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
